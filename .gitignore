@@ -51,3 +51,8 @@ servies/
 
 # ไม่แสดง firebase_options.dart 
 **/firebase_options.dart
+
+
+# ไม่เอาไฟล์ Firebase Config ทั้งของ Android และ iOS
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
