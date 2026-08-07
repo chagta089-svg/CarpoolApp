@@ -1,17 +1,13 @@
-# carpool_app
+# CarpoolApp
 
-A new Flutter project.
+## 🇹🇭 เกี่ยวกับโปรเจกต์ (About Project)
+**CarpoolApp** คือแอปพลิเคชันสำหรับการแบ่งปันการเดินทาง (Carpooling) ที่ช่วยเชื่อมต่อผู้ขับขี่และผู้ร่วมเดินทางในเส้นทางเดียวกัน เพื่อช่วยลดค่าใช้จ่ายในการเดินทางและลดปัญหาการจราจร
 
-## Getting Started
+> **หมายเหตุ:** ใน Repository นี้จะยังไม่แสดงโค้ดส่วนของ **Views** (จะมีการอัปเดตและปล่อยตัวอย่างโค้ดส่วนนี้ตามมาในภายหลัง)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🇬🇧 About The Project
+**CarpoolApp** is a ride-sharing / carpooling application designed to connect drivers and passengers traveling along the same route, helping reduce travel costs and traffic congestion.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# CarpoolApp" 
+> **Note:** Code within the **Views** directories is currently excluded from this repository (code examples for these sections will be updated and released later).
